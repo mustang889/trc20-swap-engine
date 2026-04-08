@@ -1,0 +1,1 @@
+{"name":"trc20-swap-engine","version":"1.0.0","main":"index.js","dependencies":{"tronweb":"^5.3.2","dotenv":"^16.3.1"}}
